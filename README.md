@@ -10,7 +10,7 @@ I am a frontend developer who loves react!
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://dev.page/aryan)
-* 🚀  I'm currently working on [Feedback App](http://github.com/aryan-gitofficial/feedback-app)
+* 🚀  I'm currently working on [Feedback App](http://github.com/aryan-gitofficial/feedback-app) <a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/0b131c9b8f804de4b561573db0952a3b.png?r=l2t" width="400" alt="Aryan Singh's Dev Card"/></a>
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
