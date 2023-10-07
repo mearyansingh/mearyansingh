@@ -1,6 +1,8 @@
 Hi 👋 My name is Aryan Singh
 ============================
 
+<a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/0b131c9b8f804de4b561573db0952a3b.png?r=l2t" width="400" alt="Aryan Singh's Dev Card"/></a>
+
 Frontend Developer
 ------------------
 
