@@ -4,10 +4,8 @@ Hi 👋 My name is Aryan Singh
 <table>
 <tr>
  <td valing=center>
-   Frontend Developer
-------------------
 
-I am a frontend developer who loves react!
+I am a <b>frontend developer</b> who loves react!
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://dev.page/aryan)
