@@ -5,7 +5,6 @@ Hi 👋 My name is Aryan Singh
 <tr>
  <td valing=center>
   
- <div>
   I am a <b>frontend developer</b> who loves react!
 
 * 🌍  I'm based in Chandigarh
@@ -14,7 +13,6 @@ Hi 👋 My name is Aryan Singh
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
- </div>
 
  </td>
    <td>
