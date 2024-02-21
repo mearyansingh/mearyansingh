@@ -7,7 +7,7 @@ Hi 👋 My name is Aryan Singh
   
   I am a <b>frontend developer</b> who loves react!
 
-* 🌍  I'm based in Chandigarh
+* 🌍  I'm based in Amritsar
 * 🖥️  See my portfolio at [MyPortfolio](http://dev.page/aryan)
 * 🚀  I'm currently working on [Feedback App](http://github.com/aryan-gitofficial/feedback-app)
 * 🧠  I'm learning Backend
