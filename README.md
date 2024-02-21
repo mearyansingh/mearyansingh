@@ -3,14 +3,14 @@ Hi 👋 My name is Aryan Singh
 
 <table>
 <tr>
- <td valing=center>
+ <td valing=top>
 
 I am a <b>frontend developer</b> who loves react!
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://dev.page/aryan)
 * 🚀  I'm currently working on [Feedback App](http://github.com/aryan-gitofficial/feedback-app)
-* 🧠  I'm learning React
+* 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
 
