@@ -3,7 +3,7 @@ Hi 👋 My name is Aryan Singh
 
 <table>
 <tr>
- <td valing=center>
+ <td aling="top">
   
   I am a <b>frontend developer</b> who loves react!
 
