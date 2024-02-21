@@ -3,9 +3,10 @@ Hi 👋 My name is Aryan Singh
 
 <table>
 <tr>
- <td valing=top>
-
-I am a <b>frontend developer</b> who loves react!
+ <td valing=center>
+  
+ <div>
+  I am a <b>frontend developer</b> who loves react!
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [MyPortfolio](http://dev.page/aryan)
@@ -13,6 +14,7 @@ I am a <b>frontend developer</b> who loves react!
 * 🧠  I'm learning Backend
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
+ </div>
 
  </td>
    <td>
