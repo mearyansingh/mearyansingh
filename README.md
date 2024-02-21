@@ -16,7 +16,7 @@ I am a <b>frontend developer</b> who loves react!
 
  </td>
    <td>
-     <a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/0b131c9b8f804de4b561573db0952a3b.png?r=l2t" width="400" alt="Aryan Singh's Dev Card"/></a>
+    <a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/v2/1QrtCWvH0Po6BIkpsSsKc.png?r=ktb&type=default" width="356" alt="Aryan Singh's Dev Card"/></a>
   </td>
 </tr>
 </table>
