@@ -13,6 +13,8 @@ I'm Aryan, a passionate React developer with 1.5 years of hands-on experience cr
 * 🤝  I'm open to collaborating on full stack projects
 * ⚡  Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or just to say hi! Together, let's innovate and build the future of technology.
 
+<p align="center"><a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/v2/1QrtCWvH0Po6BIkpsSsKc.png?type=wide&r=s14" width="652" alt="Aryan Singh's Dev Card"/></a></p>
+
 ### Skills
 
 
