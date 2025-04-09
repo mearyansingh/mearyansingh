@@ -7,7 +7,7 @@ Full Stack Developer
 I'm Aryan, a passionate React developer with 1.5 years of hands-on experience crafting elegant and efficient user interfaces. As an avid learner, I constantly seek opportunities to expand my skill set. Currently, I'm on an exciting journey to master the backend technologies, aiming to achieve proficiency in completing the MERN (MongoDB, Express.js, React, Node.js) stack.
 
 * 🌍  I'm based in Amritsar | India
-* 🖥️  See my portfolio at [devaryan.online](http://devaryan.me)
+* 🖥️  See my portfolio at [devaryan.me](http://devaryan.me)
 * 🚀  I'm currently working on [Gemini Genie](http://github.com/mearyansingh/gemini-genie)
 * 🧠  I'm learning Node.js, Express.js, and MongoDB
 * 🤝  I'm open to collaborating on full stack projects
