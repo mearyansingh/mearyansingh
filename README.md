@@ -8,7 +8,7 @@ I'm Aryan, a passionate React developer with 1.5 years of hands-on experience cr
 
 * 🌍  I'm based in Amritsar | India
 * 🖥️  See my portfolio at [devaryan.me](http://devaryan.me)
-* 🚀  I'm currently working on [MERN Auth App]([https://mernapp-auth.vercel.app])
+* 🚀  I'm currently working on [MERN Auth App](https://mernapp-auth.vercel.app)
 * 🧠  I'm learning Node.js, Express.js, and MongoDB
 * 🤝  I'm open to collaborating on full stack projects
 * ⚡  Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or just to say hi! Together, let's innovate and build the future of technology.
