@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Singh
 ===================================================================================================================================
 
-Web Developer
+Software Developer 
 --------------------
 
 I'm Aryan, a passionate React developer with 1.5 years of hands-on experience crafting elegant and efficient user interfaces. As an avid learner, I constantly seek opportunities to expand my skill set. Currently, I'm on an exciting journey to master the backend technologies, aiming to achieve proficiency in completing the MERN (MongoDB, Express.js, React, Node.js) stack.
