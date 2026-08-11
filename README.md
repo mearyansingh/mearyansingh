@@ -1,46 +1,176 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Singh
-===================================================================================================================================
+<div align="center">
 
-Software Developer 
---------------------
+# Hey, I'm Aryan Singh 👋
 
-I'm Aryan, a passionate React developer with 1.5 years of hands-on experience crafting elegant and efficient user interfaces. As an avid learner, I constantly seek opportunities to expand my skill set. Currently, I'm on an exciting journey to master the backend technologies, aiming to achieve proficiency in completing the MERN (MongoDB, Express.js, React, Node.js) stack.
+### Software Developer · React Specialist · Full-Stack in Progress
 
-* 🌍  I'm based in Amritsar | India
-* 🖥️  See my portfolio at [devaryan.me](http://devaryan.me)
-* 🚀  I'm currently learning React-Native.
-* 🧠  I'm learning Node.js, Express.js, and MongoDB
-* 🤝  I'm open to collaborating on full stack projects
-* ⚡  Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities or just to say hi! Together, let's innovate and build the future of technology.
+<a href="https://devaryan.me">
+  <img src="https://img.shields.io/badge/Portfolio-devaryan.me-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/mearyansingh">
+  <img src="https://img.shields.io/badge/GitHub-mearyansingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/iamaryansingh">
+  <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<p align="center"><a href="https://app.daily.dev/iamaryansingh"><img src="https://api.daily.dev/devcards/v2/1QrtCWvH0Po6BIkpsSsKc.png?type=wide&r=s14" width="652" alt="Aryan Singh's Dev Card"/></a></p>
+</div>
 
-### Skills
+---
 
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+I'm a **React-focused software developer** who enjoys turning ideas into clean, efficient, and user-friendly web experiences.
+
+My current focus is expanding from frontend development into backend engineering so I can confidently build and ship **end-to-end MERN applications**.
+
+* 📍 Based in **Amritsar, India**
+* ⚛️ React-focused developer with **1.5 years of hands-on experience**
+* 🚀 Currently learning **React Native**
+* 🧠 Deepening my knowledge of **Node.js, Express.js, and MongoDB**
+* 🤝 Open to collaborating on **full-stack projects**
+* 💡 Interested in building products with clean architecture, practical UX, and maintainable code
+
+> **Current direction:** Frontend excellence → Backend depth → Full-stack development
+
+---
+
+## 🪪 Developer Card
+
+<div align="center">
+
+<a href="https://app.daily.dev/iamaryansingh">
+  <img src="https://api.daily.dev/devcards/v2/1QrtCWvH0Po6BIkpsSsKc.png?type=wide&r=s14" width="652" alt="Aryan Singh's Daily.dev developer card" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,sass,redux&perline=10" alt="Frontend technologies" />
 </p>
 
+### Backend & Database
 
-### Socials
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=10" alt="Backend and database technologies" />
+</p>
 
-<p align="left"> <a href="https://discord.com/users/aryansingh.me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/iaryansingh.me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/mearyansingh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://iaryansingh.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aryansingh.me" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/iamaryansingh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/aryansingh_1810" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Tools
 
-### Badges
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=10" alt="Development tools" />
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/mearyansingh"><img src="https://github-readme-stats.vercel.app/api?username=mearyansingh&show_icons=true&hide=prs,contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="mearyansingh's GitHub stats" /></a>
+## 🎯 What I'm Focused On
 
-<a href="http://www.github.com/mearyansingh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mearyansingh&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+```text
+Frontend Engineering
+████████████████████░░  React · Next.js · TypeScript
 
-<a href="https://github.com/mearyansingh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearyansingh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+Backend Engineering
+██████████████░░░░░░░░  Node.js · Express.js · MongoDB
 
-### Support Me
+Mobile Development
+██████████░░░░░░░░░░░░  React Native
 
-<ul style="list-style-type: none; margin: 0;">
+Full-Stack Development
+██████████████░░░░░░░░  MERN · APIs · Application Architecture
+```
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/devaryan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+---
 
-</ul>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/mearyansingh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mearyansingh&show_icons=true&hide=prs,contribs&count_private=true&hide_border=true&include_all_commits=true&theme=default#gh-light-mode-only" alt="Aryan's GitHub stats" />
+</a>
+<a href="https://github.com/mearyansingh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mearyansingh&show_icons=true&hide=prs,contribs&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark#gh-dark-mode-only" alt="Aryan's GitHub stats" />
+</a>
+
+<a href="https://github.com/mearyansingh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearyansingh&layout=compact&langs_count=8&hide_border=true&theme=default#gh-light-mode-only" alt="Aryan's top languages" />
+</a>
+<a href="https://github.com/mearyansingh">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mearyansingh&layout=compact&langs_count=8&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="Aryan's top languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://streak-stats.demolab.com/?user=mearyansingh">
+  <img src="https://streak-stats.demolab.com/?user=mearyansingh&theme=default&hide_border=true#gh-light-mode-only" alt="Aryan's GitHub contribution streak" />
+</a>
+<a href="https://streak-stats.demolab.com/?user=mearyansingh">
+  <img src="https://streak-stats.demolab.com/?user=mearyansingh&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="Aryan's GitHub contribution streak" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://devaryan.me">
+  <img src="https://img.shields.io/badge/Website-devaryan.me-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/iamaryansingh">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/mearyansingh">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://iaryansingh.hashnode.dev">
+  <img src="https://img.shields.io/badge/Hashnode-Read%20my%20articles-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
+<a href="https://discord.com/users/aryansingh.me">
+  <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://www.x.com/aryansingh_1810">
+  <img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="http://www.instagram.com/aryansingh.me">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/iaryansingh.me">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+If you find something useful in my repositories, learn from my projects, or simply want to support my work, you can buy me a coffee.
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/devaryan">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="170" alt="Buy Me A Coffee" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### <i>Build. Learn. Ship. Repeat. 🚀</i>
+
+<sub>Thanks for stopping by — feel free to explore my repositories and connect with me.</sub>
+
+</div>
